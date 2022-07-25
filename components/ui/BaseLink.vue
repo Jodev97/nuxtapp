@@ -1,5 +1,5 @@
 <template>
-  <a href="#" class="bg-blue-100">ir a la web 3</a>
+  <a href="#" class="bg-blue-600">conponente de navegación</a>
 </template>
 
 <script>

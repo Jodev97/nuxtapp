@@ -1,9 +1,9 @@
 <template>
-  <h1>Main</h1>
+  <h1>User profile</h1>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+  name: 'UserProfile',
 }
 </script>

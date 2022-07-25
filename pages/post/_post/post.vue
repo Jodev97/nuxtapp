@@ -1,9 +1,9 @@
 <template>
-  <h1>Main</h1>
+  <h1>este es un post</h1>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+  name: 'PostMain',
 }
 </script>

@@ -1,9 +1,9 @@
 <template>
-  <h1>Main</h1>
+  <h1>Index post</h1>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+  name: 'PostIndex1',
 }
 </script>

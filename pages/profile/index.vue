@@ -1,9 +1,10 @@
 <template>
-  <h1>Main</h1>
+  <h1>Profile</h1>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+name:"ProfileIndex"
 }
 </script>
+

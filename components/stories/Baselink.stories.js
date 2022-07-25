@@ -1,5 +1,3 @@
-// Button.stories.js
-
 import BaseLink from '@/components/ui/BaseLink.vue'
 
 export default {
